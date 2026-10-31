@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.22.1"},"description":"Small WebSocket signaling server for Shooter Game P2P multiplayer","engines":{"node":">=18"},"main":"server.js","name":"shooter-signaling-server","scripts":{"start":"node server.js"},"version":"1.0.0"}
